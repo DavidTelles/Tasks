@@ -6,7 +6,7 @@ function sleep(ms) {
 
 async function pomodoro(time) {
     const min = time * 60000
-    console.log(`Pomodoro iniciado! Estude por ${tempo} minutos...`);
+    console.log(`Pomodoro iniciado! Estude por ${time} minutos...`);
     await sleep(time)
     console.log("O tempo acabou! vá para o seu descanço!")
 }
