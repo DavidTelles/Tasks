@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')();
+let tempo = document.getElementById('itempo')
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -6,11 +6,13 @@ function sleep(ms) {
 
 async function pomodoro(time) {
     const min = time * 60000
-    console.log(`Pomodoro iniciado! Estude por ${tempo} minutos...`);
-    await sleep(time)
-    console.log("O tempo acabou! vá para o seu descanço!")
+    document.body.innerHTML = "<h2>Tempo de estudo iniciado!</h2>";
+    await sleep(min)
+    document.body.innerHTML = "<h2>Tempo de estudo encerrado! Hora de fazer uma pausa.</h2>";
+    await sleep(5000)
+    window.location.href = 'index.html';
 }
 
-let tempo = Number(prompt('Digite o tempo que deseja estudar (em minutos) -> '))
-
-pomodoro(tempo)
+function startPomodoro() {
+    pomodoro(parseInt(tempo.value));
+}
