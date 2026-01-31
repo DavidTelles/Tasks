@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timer</title>
+    <link rel="shortcut icon" href="../img/favicon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <div class="timer">
+    <input type="text" id="hours">
+    <span class="separator">:</span>
+    <input type="text" id="minutes">
+    <span class="separator">:</span>
+    <input type="text" id="seconds"">
+    </div>
+
+    <div class="buttons">
+    <img src="../img/play.svg" alt="Play" onclick="start()">
+    <img src="../img/pause.svg" alt="Pause" onclick="pause()">
+    <img src="../img/refresh.svg" alt="Refresh" onclick="reset()">
+    </div>
+    
+    <script src="./scripts/index.js"></script>
+</body>
+</html>
