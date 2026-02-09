@@ -9,16 +9,16 @@ for(let i = 1; i <= 6; i++) {
 
     if(guess > target) {
         console.clear()
-        console.log(`${guess} It's bigger`)
+        console.log(`Menor`)
     } else if (guess < target) {
         console.clear()
-        console.log(`${guess} It's smaller`)
+        console.log(`Maior`)
     } else if (guess == target) {
         console.log('You Win!')
         break;
     }
 
     if (i == 6) {
-        console.log(`your attempts are over, the target is ${target}`)
+        console.log(`Suas chances acabaram, o número era: ${target}`)
     }
 }
