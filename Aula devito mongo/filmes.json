@@ -1,0 +1,1702 @@
+[
+    {
+      "titulo": "Spider-Man: No Way Home",
+      "genero": "Ação",
+      "ano": 2021,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ],
+      "detalhes": {
+        "duracao": 148,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Spider-Man_No_Way_Home_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Vingadores: Ultimato",
+      "genero": "Ação",
+      "ano": 2019,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "detalhes": {
+        "duracao": 181,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Avengers_Endgame_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Your Name",
+      "genero": "Animação",
+      "ano": 2016,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita"
+      ],
+      "detalhes": {
+        "duracao": 106,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5f/Your_Name_poster.png"
+      }
+    },
+    {
+      "titulo": "Kimetsu no Yaiba: Infinity Castle",
+      "genero": "Animação",
+      "ano": 2024,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Natsuki Hanae",
+        "Akari Kito",
+        "Yoshitsugu Matsuoka"
+      ],
+      "detalhes": {
+        "duracao": 120,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f1/Demon_Slayer_Infinity_Castle_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Gato de Botas 2: O Último Pedido",
+      "genero": "Animação",
+      "ano": 2022,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Antonio Banderas",
+        "Salma Hayek",
+        "Harvey Guillén"
+      ],
+      "detalhes": {
+        "duracao": 102,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/50/Puss_in_Boots_The_Last_Wish_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Shrek",
+      "genero": "Animação",
+      "ano": 2001,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz"
+      ],
+      "detalhes": {
+        "duracao": 90,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/51/Shrek_%28film%29.png"
+      }
+    },
+    {
+      "titulo": "Coringa",
+      "genero": "Drama",
+      "ano": 2019,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ],
+      "detalhes": {
+        "duracao": 122,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e4/Joker_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Batman",
+      "genero": "Ação",
+      "ano": 2022,
+      "nota": 7.8,
+      "disponivel": true,
+      "atores": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "detalhes": {
+        "duracao": 176,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/85/The_Batman_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Michael Jackson's This Is It",
+      "genero": "Documentário",
+      "ano": 2009,
+      "nota": 7.2,
+      "disponivel": false,
+      "atores": [
+        "Michael Jackson",
+        "Orianthi",
+        "Kenny Ortega"
+      ],
+      "detalhes": {
+        "duracao": 111,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b4/This_Is_It_Film_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Barbie",
+      "genero": "Comédia",
+      "ano": 2023,
+      "nota": 6.9,
+      "disponivel": true,
+      "atores": [
+        "Margot Robbie",
+        "Ryan Gosling",
+        "America Ferrera"
+      ],
+      "detalhes": {
+        "duracao": 114,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/28/Barbie_2023_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Origem",
+      "genero": "Ficção Científica",
+      "ano": 2010,
+      "nota": 8.8,
+      "disponivel": true,
+      "atores": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "detalhes": {
+        "duracao": 148,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bd/Inception_%282010%29_theatrical_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Matrix",
+      "genero": "Ficção Científica",
+      "ano": 1999,
+      "nota": 8.7,
+      "disponivel": true,
+      "atores": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "detalhes": {
+        "duracao": 136,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c1/The_Matrix_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Cavaleiro das Trevas",
+      "genero": "Ação",
+      "ano": 2008,
+      "nota": 9.0,
+      "disponivel": true,
+      "atores": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "detalhes": {
+        "duracao": 152,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/Dark_knight_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "genero": "Crime",
+      "ano": 1994,
+      "nota": 8.9,
+      "disponivel": true,
+      "atores": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "detalhes": {
+        "duracao": 154,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/82/Pulp_Fiction_cover.jpg"
+      }
+    },
+    {
+      "titulo": "Clube da Luta",
+      "genero": "Drama",
+      "ano": 1999,
+      "nota": 8.8,
+      "disponivel": true,
+      "atores": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter"
+      ],
+      "detalhes": {
+        "duracao": 139,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/Fight_Club_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Forrest Gump",
+      "genero": "Drama",
+      "ano": 1994,
+      "nota": 8.8,
+      "disponivel": true,
+      "atores": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "detalhes": {
+        "duracao": 142,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Forrest_Gump_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+      "genero": "Fantasia",
+      "ano": 2003,
+      "nota": 9.0,
+      "disponivel": true,
+      "atores": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "detalhes": {
+        "duracao": 201,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/be/The_lord_of_the_rings_-_the_return_of_the_king.jpg"
+      }
+    },
+    {
+      "titulo": "O Poderoso Chefão",
+      "genero": "Crime",
+      "ano": 1972,
+      "nota": 9.2,
+      "disponivel": true,
+      "atores": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "detalhes": {
+        "duracao": 175,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/af/The_Godfather_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Viagem de Chihiro",
+      "genero": "Animação",
+      "ano": 2001,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki"
+      ],
+      "detalhes": {
+        "duracao": 125,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Spirited_Away_Japanese_poster.png"
+      }
+    },
+    {
+      "titulo": "Parasita",
+      "genero": "Thriller",
+      "ano": 2019,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong"
+      ],
+      "detalhes": {
+        "duracao": 132,
+        "idioma": "Coreano",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4b/Parasite_%282019%29_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Gladiador",
+      "genero": "Ação",
+      "ano": 2000,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "detalhes": {
+        "duracao": 155,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f8/Gladiator_%282000_film_poster%29.png"
+      }
+    },
+    {
+      "titulo": "Avatar",
+      "genero": "Ficção Científica",
+      "ano": 2009,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver"
+      ],
+      "detalhes": {
+        "duracao": 162,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Duna: Parte Dois",
+      "genero": "Ficção Científica",
+      "ano": 2024,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "detalhes": {
+        "duracao": 166,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/52/Dune_Part_Two_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Rei Leão",
+      "genero": "Animação",
+      "ano": 1994,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ],
+      "detalhes": {
+        "duracao": 88,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/12/The_Lion_King_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Whiplash: Em Busca da Perfeição",
+      "genero": "Drama",
+      "ano": 2014,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser"
+      ],
+      "detalhes": {
+        "duracao": 106,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Whiplash_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Cidade de Deus",
+      "genero": "Crime",
+      "ano": 2002,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Alice Braga"
+      ],
+      "detalhes": {
+        "duracao": 130,
+        "idioma": "Português",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1e/City_of_God_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Bastardos Inglórios",
+      "genero": "Guerra",
+      "ano": 2009,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Brad Pitt",
+        "Christoph Waltz",
+        "Mélanie Laurent"
+      ],
+      "detalhes": {
+        "duracao": 153,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Inglourious_Basterds_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Show de Truman",
+      "genero": "Drama",
+      "ano": 1998,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Ed Harris"
+      ],
+      "detalhes": {
+        "duracao": 103,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/92/The_Truman_Show_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Silêncio dos Inocentes",
+      "genero": "Suspense",
+      "ano": 1991,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+      ],
+      "detalhes": {
+        "duracao": 118,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e4/The_Silence_of_the_Lambs_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Resgate do Soldado Ryan",
+      "genero": "Guerra",
+      "ano": 1998,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+      ],
+      "detalhes": {
+        "duracao": 169,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/98/Saving_Private_Ryan_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Lobo de Wall Street",
+      "genero": "Biografia",
+      "ano": 2013,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+      ],
+      "detalhes": {
+        "duracao": 180,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/7b/The_Wolf_of_Wall_Street_%282013%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+      "genero": "Romance",
+      "ano": 2004,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst"
+      ],
+      "detalhes": {
+        "duracao": 108,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/45/Eternal_Sunshine_of_the_Spotless_Mind_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Django Livre",
+      "genero": "Faroeste",
+      "ano": 2012,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+      ],
+      "detalhes": {
+        "duracao": 165,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Django_Unchained_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Guerra Mundial Z",
+      "genero": "Ação",
+      "ano": 2013,
+      "nota": 7.0,
+      "disponivel": true,
+      "atores": [
+        "Brad Pitt",
+        "Mireille Enos",
+        "Daniella Kertesz"
+      ],
+      "detalhes": {
+        "duracao": 116,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/36/World_War_Z_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Ilha do Medo",
+      "genero": "Mistério",
+      "ano": 2010,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley"
+      ],
+      "detalhes": {
+        "duracao": 138,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/94/Shutter_Island_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Seven: Os Sete Crimes Capitais",
+      "genero": "Policial",
+      "ano": 1995,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ],
+      "detalhes": {
+        "duracao": 127,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/68/Seven_%281995_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Grande Truque",
+      "genero": "Mistério",
+      "ano": 2006,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ],
+      "detalhes": {
+        "duracao": 130,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d1/Prestige_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Réquiem para um Sonho",
+      "genero": "Drama",
+      "ano": 2000,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Ellen Burstyn",
+        "Jared Leto",
+        "Jennifer Connelly"
+      ],
+      "detalhes": {
+        "duracao": 102,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Requiem_for_a_Dream_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Os Infiltrados",
+      "genero": "Policial",
+      "ano": 2006,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "detalhes": {
+        "duracao": 151,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/50/The_Departed_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Cisne Negro",
+      "genero": "Drama",
+      "ano": 2010,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel"
+      ],
+      "detalhes": {
+        "duracao": 108,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6d/Black_Swan_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Up: Altas Aventuras",
+      "genero": "Animação",
+      "ano": 2009,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Edward Asner",
+        "Jordan Nagai",
+        "John Ratzenberger"
+      ],
+      "detalhes": {
+        "duracao": 96,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/05/Up_%282009_film%29.jpg"
+      }
+    },
+    {
+      "titulo": "WALL-E",
+      "genero": "Animação",
+      "ano": 2008,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+      ],
+      "detalhes": {
+        "duracao": 98,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c2/WALL-E_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Toy Story",
+      "genero": "Animação",
+      "ano": 1995,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles"
+      ],
+      "detalhes": {
+        "duracao": 81,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Toy_story_logo.jpg"
+      }
+    },
+    {
+      "titulo": "Monstros S.A.",
+      "genero": "Animação",
+      "ano": 2001,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "John Goodman",
+        "Billy Crystal",
+        "Mary Gibbs"
+      ],
+      "detalhes": {
+        "duracao": 92,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9e/Monsters%2C_Inc._poster.jpg"
+      }
+    },
+    {
+      "titulo": "Ratatouille",
+      "genero": "Animação",
+      "ano": 2007,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Patton Oswalt",
+        "Ian Holm",
+        "Lou Romano"
+      ],
+      "detalhes": {
+        "duracao": 111,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/50/RatatouillePoster.jpg"
+      }
+    },
+    {
+      "titulo": "Divertida Mente",
+      "genero": "Animação",
+      "ano": 2015,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Amy Poehler",
+        "Bill Hader",
+        "Lewis Black"
+      ],
+      "detalhes": {
+        "duracao": 95,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1a/Inside_Out_%282015_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Spider-Man: Into the Spider-Verse",
+      "genero": "Animação",
+      "ano": 2018,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld"
+      ],
+      "detalhes": {
+        "duracao": 117,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/24/Spider-Man_Into_the_Spider-Verse_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Akira",
+      "genero": "Animação",
+      "ano": 1988,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama"
+      ],
+      "detalhes": {
+        "duracao": 124,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5d/Akira_film_poster.png"
+      }
+    },
+    {
+      "titulo": "O Castelo Animado",
+      "genero": "Animação",
+      "ano": 2004,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Chieko Baisho",
+        "Takuya Kimura",
+        "Akihiro Miwa"
+      ],
+      "detalhes": {
+        "duracao": 119,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a0/HowlsMovingCastle.jpg"
+      }
+    },
+    {
+      "titulo": "Meu Amigo Totoro",
+      "genero": "Animação",
+      "ano": 1988,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Chika Sakamoto",
+        "Noriko Hidaka",
+        "Hitoshi Takagi"
+      ],
+      "detalhes": {
+        "duracao": 86,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/07/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg"
+      }
+    },
+    {
+      "titulo": "Kimi no Suizou wo Tabetai",
+      "genero": "Animação",
+      "ano": 2018,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Mahiro Takasugi",
+        "Lynn",
+        "Yukinoyo Fujii"
+      ],
+      "detalhes": {
+        "duracao": 108,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/87/Kimi_no_Suiz%C5%8D_wo_Tabetai_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Voz do Silêncio",
+      "genero": "Animação",
+      "ano": 2016,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Miyu Irino",
+        "Saori Hayami",
+        "Aoi Yuki"
+      ],
+      "detalhes": {
+        "duracao": 130,
+        "idioma": "Japonês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e0/A_Silent_Voice_film_poster.png"
+      }
+    },
+    {
+      "titulo": "Mad Max: Estrada da Fúria",
+      "genero": "Ação",
+      "ano": 2015,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+      ],
+      "detalhes": {
+        "duracao": 120,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/67/Mad_Max_Fury_Road_-_Theatrical_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "John Wick: De Volta ao Jogo",
+      "genero": "Ação",
+      "ano": 2014,
+      "nota": 7.4,
+      "disponivel": true,
+      "atores": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen"
+      ],
+      "detalhes": {
+        "duracao": 101,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3e/John_Wick_TeaserPoster.jpg"
+      }
+    },
+    {
+      "titulo": "Duro de Matar",
+      "genero": "Ação",
+      "ano": 1988,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Bonnie Bedelia"
+      ],
+      "detalhes": {
+        "duracao": 132,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Die_Hard_%281988_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Exterminador do Futuro 2",
+      "genero": "Ficção Científica",
+      "ano": 1991,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+      ],
+      "detalhes": {
+        "duracao": 137,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Terminator2poster.jpg"
+      }
+    },
+    {
+      "titulo": "Jurassic Park",
+      "genero": "Aventura",
+      "ano": 1993,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+      ],
+      "detalhes": {
+        "duracao": 127,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Jurassicparkposter.jpg"
+      }
+    },
+    {
+      "titulo": "Indiana Jones e os Caçadores da Arca Perdida",
+      "genero": "Aventura",
+      "ano": 1981,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+      ],
+      "detalhes": {
+        "duracao": 115,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/ec/Raiders_of_the_lost_ark_Harrison_Ford_promotional_image.jpg"
+      }
+    },
+    {
+      "titulo": "De Volta para o Futuro",
+      "genero": "Ficção Científica",
+      "ano": 1985,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "detalhes": {
+        "duracao": 116,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d2/Back_to_the_Future.jpg"
+      }
+    },
+    {
+      "titulo": "Star Wars: Episódio V - O Império Contra-Ataca",
+      "genero": "Ficção Científica",
+      "ano": 1980,
+      "nota": 8.7,
+      "disponivel": true,
+      "atores": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "detalhes": {
+        "duracao": 124,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3c/The_Empire_Strikes_Back_%281980_film%29.jpg"
+      }
+    },
+    {
+      "titulo": "Gladiador 2",
+      "genero": "Ação",
+      "ano": 2024,
+      "nota": 7.5,
+      "disponivel": true,
+      "atores": [
+        "Paul Mescal",
+        "Pedro Pascal",
+        "Denzel Washington"
+      ],
+      "detalhes": {
+        "duracao": 148,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e2/Gladiator_II_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Oppenheimer",
+      "genero": "Biografia",
+      "ano": 2023,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon"
+      ],
+      "detalhes": {
+        "duracao": 180,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/70/Oppenheimer_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "La La Land: Cantando Estações",
+      "genero": "Musical",
+      "ano": 2016,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "Rosemarie DeWitt"
+      ],
+      "detalhes": {
+        "duracao": 128,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/ab/La_La_Land_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Bohemian Rhapsody",
+      "genero": "Biografia",
+      "ano": 2018,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Rami Malek",
+        "Lucy Boynton",
+        "Gwilym Lee"
+      ],
+      "detalhes": {
+        "duracao": 134,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/30/Bohemian_Rhapsody_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Nasce uma Estrela",
+      "genero": "Drama",
+      "ano": 2018,
+      "nota": 7.6,
+      "disponivel": true,
+      "atores": [
+        "Lady Gaga",
+        "Bradley Cooper",
+        "Sam Elliott"
+      ],
+      "detalhes": {
+        "duracao": 136,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/74/A_Star_Is_Born_%282018_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Iluminado",
+      "genero": "Terror",
+      "ano": 1980,
+      "nota": 8.4,
+      "disponivel": true,
+      "atores": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd"
+      ],
+      "detalhes": {
+        "duracao": 146,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b4/The_Shining_%281980%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Invocação do Mal",
+      "genero": "Terror",
+      "ano": 2013,
+      "nota": 7.5,
+      "disponivel": true,
+      "atores": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Lili Taylor"
+      ],
+      "detalhes": {
+        "duracao": 112,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c8/The_Conjuring_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Corra!",
+      "genero": "Terror",
+      "ano": 2017,
+      "nota": 7.8,
+      "disponivel": true,
+      "atores": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford"
+      ],
+      "detalhes": {
+        "duracao": 104,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Get_Out_%282017_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Hereditário",
+      "genero": "Terror",
+      "ano": 2018,
+      "nota": 7.3,
+      "disponivel": true,
+      "atores": [
+        "Toni Collette",
+        "Milly Shapiro",
+        "Alex Wolff"
+      ],
+      "detalhes": {
+        "duracao": 127,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c1/Hereditary_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Um Lugar Silencioso",
+      "genero": "Terror",
+      "ano": 2018,
+      "nota": 7.5,
+      "disponivel": true,
+      "atores": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds"
+      ],
+      "detalhes": {
+        "duracao": 90,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2d/A_Quiet_Place_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Bruxa",
+      "genero": "Terror",
+      "ano": 2015,
+      "nota": 7.0,
+      "disponivel": true,
+      "atores": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie"
+      ],
+      "detalhes": {
+        "duracao": 92,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/57/The_Witch_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Superbad: É Hoje",
+      "genero": "Comédia",
+      "ano": 2007,
+      "nota": 7.6,
+      "disponivel": true,
+      "atores": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "detalhes": {
+        "duracao": 113,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e8/Superbad_Poster.png"
+      }
+    },
+    {
+      "titulo": "Se Beber, Não Case!",
+      "genero": "Comédia",
+      "ano": 2009,
+      "nota": 7.7,
+      "disponivel": true,
+      "atores": [
+        "Bradley Cooper",
+        "Ed Helms",
+        "Zach Galifianakis"
+      ],
+      "detalhes": {
+        "duracao": 100,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/72/The_Hangover_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "As Branquelas",
+      "genero": "Comédia",
+      "ano": 2004,
+      "nota": 5.7,
+      "disponivel": true,
+      "atores": [
+        "Shawn Wayans",
+        "Marlon Wayans",
+        "Jaime King"
+      ],
+      "detalhes": {
+        "duracao": 109,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4d/White_Chicks_movie.jpg"
+      }
+    },
+    {
+      "titulo": "Gente Grande",
+      "genero": "Comédia",
+      "ano": 2010,
+      "nota": 6.0,
+      "disponivel": true,
+      "atores": [
+        "Adam Sandler",
+        "Kevin James",
+        "Chris Rock"
+      ],
+      "detalhes": {
+        "duracao": 102,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/17/Grown_Ups_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Tropa de Elite",
+      "genero": "Policial",
+      "ano": 2007,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Wagner Moura",
+        "Caio Junqueira",
+        "André Ramiro"
+      ],
+      "detalhes": {
+        "duracao": 115,
+        "idioma": "Português",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f1/Tropa_de_Elite_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Central do Brasil",
+      "genero": "Drama",
+      "ano": 1998,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Fernanda Montenegro",
+        "Vinícius de Oliveira",
+        "Marília Pêra"
+      ],
+      "detalhes": {
+        "duracao": 113,
+        "idioma": "Português",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f4/Central_do_Brasil_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Auto da Compadecida",
+      "genero": "Comédia",
+      "ano": 2000,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Matheus Nachtergaele",
+        "Selton Mello",
+        "Denise Fraga"
+      ],
+      "detalhes": {
+        "duracao": 104,
+        "idioma": "Português",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/O_Auto_da_Compadecida_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Bacurau",
+      "genero": "Mistério",
+      "ano": 2019,
+      "nota": 7.3,
+      "disponivel": true,
+      "atores": [
+        "Sônia Braga",
+        "Udo Kier",
+        "Bárbara Colen"
+      ],
+      "detalhes": {
+        "duracao": 131,
+        "idioma": "Português",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/09/Bacurau_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Interestelar",
+      "genero": "Ficção Científica",
+      "ano": 2014,
+      "nota": 8.7,
+      "disponivel": true,
+      "atores": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "detalhes": {
+        "duracao": 169,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2d/Interstellar_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Titanic",
+      "genero": "Romance",
+      "ano": 1997,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane"
+      ],
+      "detalhes": {
+        "duracao": 194,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4c/Titanic_%281997_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Clube dos Cinco",
+      "genero": "Drama",
+      "ano": 1985,
+      "nota": 7.8,
+      "disponivel": true,
+      "atores": [
+        "Emilio Estevez",
+        "Judd Nelson",
+        "Molly Ringwald"
+      ],
+      "detalhes": {
+        "duracao": 97,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b2/The_Breakfast_Club.jpg"
+      }
+    },
+    {
+      "titulo": "Sociedade dos Poetas Mortos",
+      "genero": "Drama",
+      "ano": 1989,
+      "nota": 8.1,
+      "disponivel": true,
+      "atores": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke"
+      ],
+      "detalhes": {
+        "duracao": 128,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/39/Dead_Poets_Society.jpg"
+      }
+    },
+    {
+      "titulo": "O Fabuloso Destino de Amélie Poulain",
+      "genero": "Romance",
+      "ano": 2001,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus"
+      ],
+      "detalhes": {
+        "duracao": 122,
+        "idioma": "Francês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/53/Amelie_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Intocáveis",
+      "genero": "Biografia",
+      "ano": 2011,
+      "nota": 8.5,
+      "disponivel": true,
+      "atores": [
+        "François Cluzet",
+        "Omar Sy",
+        "Anne Le Ny"
+      ],
+      "detalhes": {
+        "duracao": 112,
+        "idioma": "Francês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/15/Intouchables_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Vida é Bela",
+      "genero": "Drama",
+      "ano": 1997,
+      "nota": 8.6,
+      "disponivel": true,
+      "atores": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini"
+      ],
+      "detalhes": {
+        "duracao": 116,
+        "idioma": "Italiano",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/fa/Life_is_Beautiful_poster.jpg"
+      }
+    },
+    {
+      "titulo": "O Labirinto do Fauno",
+      "genero": "Fantasia",
+      "ano": 2006,
+      "nota": 8.2,
+      "disponivel": true,
+      "atores": [
+        "Ivana Baquero",
+        "Ariadna Gil",
+        "Sergi López"
+      ],
+      "detalhes": {
+        "duracao": 118,
+        "idioma": "Espanhol",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/65/Pan%27s_Labyrinth.jpg"
+      }
+    },
+    {
+      "titulo": "Oldboy",
+      "genero": "Thriller",
+      "ano": 2003,
+      "nota": 8.3,
+      "disponivel": true,
+      "atores": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jung"
+      ],
+      "detalhes": {
+        "duracao": 120,
+        "idioma": "Coreano",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/06/Oldboy_Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Drive",
+      "genero": "Ação",
+      "ano": 2011,
+      "nota": 7.8,
+      "disponivel": true,
+      "atores": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston"
+      ],
+      "detalhes": {
+        "duracao": 100,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c6/Drive_%282011_film%29.jpg"
+      }
+    },
+    {
+      "titulo": "Blade Runner 2049",
+      "genero": "Ficção Científica",
+      "ano": 2017,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ],
+      "detalhes": {
+        "duracao": 164,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9b/Blade_Runner_2049_poster.png"
+      }
+    },
+    {
+      "titulo": "O Resgate",
+      "genero": "Ação",
+      "ano": 2020,
+      "nota": 7.4,
+      "disponivel": true,
+      "atores": [
+        "Chris Hemsworth",
+        "Rudhraksh Jaiswal",
+        "Randeep Hooda"
+      ],
+      "detalhes": {
+        "duracao": 116,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8c/Extraction_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Moonlight",
+      "genero": "Drama",
+      "ano": 2016,
+      "nota": 7.4,
+      "disponivel": true,
+      "atores": [
+        "Mahershala Ali",
+        "Naomie Harris",
+        "Trevante Rhodes"
+      ],
+      "detalhes": {
+        "duracao": 111,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4b/Moonlight_%282016_film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Annihilation",
+      "genero": "Ficção Científica",
+      "ano": 2018,
+      "nota": 6.8,
+      "disponivel": true,
+      "atores": [
+        "Natalie Portman",
+        "Jennifer Jason Leigh",
+        "Tessa Thompson"
+      ],
+      "detalhes": {
+        "duracao": 115,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Annihilation_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Midsommar",
+      "genero": "Terror",
+      "ano": 2019,
+      "nota": 7.1,
+      "disponivel": true,
+      "atores": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper"
+      ],
+      "detalhes": {
+        "duracao": 148,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/21/Midsommar_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Tudo em Todo o Lugar ao Mesmo Tempo",
+      "genero": "Ficção Científica",
+      "ano": 2022,
+      "nota": 7.8,
+      "disponivel": true,
+      "atores": [
+        "Michelle Yeoh",
+        "Ke Huy Quan",
+        "Jamie Lee Curtis"
+      ],
+      "detalhes": {
+        "duracao": 139,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/cinquenta/Everything_Everywhere_All_at_Once_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Her",
+      "genero": "Romance",
+      "ano": 2013,
+      "nota": 8.0,
+      "disponivel": true,
+      "atores": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Amy Adams"
+      ],
+      "detalhes": {
+        "duracao": 126,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/44/Her2013Poster.jpg"
+      }
+    },
+    {
+      "titulo": "Nope",
+      "genero": "Terror",
+      "ano": 2022,
+      "nota": 6.8,
+      "disponivel": true,
+      "atores": [
+        "Daniel Kaluuya",
+        "Keke Palmer",
+        "Steven Yeun"
+      ],
+      "detalhes": {
+        "duracao": 130,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/28/Nope_%28film%29_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Burning",
+      "genero": "Thriller",
+      "ano": 2018,
+      "nota": 7.5,
+      "disponivel": true,
+      "atores": [
+        "Yoo Ah-in",
+        "Steven Yeun",
+        "Jun Jong-seo"
+      ],
+      "detalhes": {
+        "duracao": 148,
+        "idioma": "Coreano",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e2/Burning_2018_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Aftersun",
+      "genero": "Drama",
+      "ano": 2022,
+      "nota": 7.6,
+      "disponivel": true,
+      "atores": [
+        "Paul Mescal",
+        "Frankie Corio",
+        "Celia Rowlson-Hall"
+      ],
+      "detalhes": {
+        "duracao": 101,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a3/Aftersun_film_poster.jpg"
+      }
+    },
+    {
+      "titulo": "A Chegada",
+      "genero": "Ficção Científica",
+      "ano": 2016,
+      "nota": 7.9,
+      "disponivel": true,
+      "atores": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "detalhes": {
+        "duracao": 116,
+        "idioma": "Inglês",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4d/Arrival_%28film%29_poster.jpg"
+      }
+    }
+  ]

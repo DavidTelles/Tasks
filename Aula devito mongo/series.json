@@ -1,0 +1,1901 @@
+[
+    {
+      "titulo": "La Casa de Papel",
+      "genero": "Ação",
+      "ano": 2017,
+      "nota": 8.2,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Úrsula Corberó",
+        "Álvaro Morte"
+      ],
+      "detalhes": {
+        "episodios": 41,
+        "idioma": "Espanhol",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0a/La_casa_de_papel_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Breaking Bad",
+      "genero": "Drama",
+      "ano": 2008,
+      "nota": 9.5,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn"
+      ],
+      "detalhes": {
+        "episodios": 62,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/61/Breaking_Bad_logo.png"
+      }
+    },
+    {
+      "titulo": "Game of Thrones",
+      "genero": "Fantasia",
+      "ano": 2011,
+      "nota": 9.2,
+      "disponivel": true,
+      "temporadas": 8,
+      "atores": [
+        "Emilia Clarke",
+        "Kit Harington",
+        "Peter Dinklage"
+      ],
+      "detalhes": {
+        "episodios": 73,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6a/Game_of_Thrones_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Stranger Things",
+      "genero": "Ficção Científica",
+      "ano": 2016,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Winona Ryder"
+      ],
+      "detalhes": {
+        "episodios": 34,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/52/Stranger_Things_logo.png"
+      }
+    },
+    {
+      "titulo": "The Last of Us",
+      "genero": "Drama",
+      "ano": 2023,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Pedro Pascal",
+        "Bella Ramsey",
+        "Anna Torv"
+      ],
+      "detalhes": {
+        "episodios": 19,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/42/The_Last_of_Us_TV_series.jpg"
+      }
+    },
+    {
+      "titulo": "The Office",
+      "genero": "Comédia",
+      "ano": 2005,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 9,
+      "atores": [
+        "Steve Carell",
+        "John Krasinski",
+        "Jenna Fischer"
+      ],
+      "detalhes": {
+        "episodios": 201,
+        "idioma": "Inglês",
+        "plataforma": "Peacock",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6e/The_Office_US.jpg"
+      }
+    },
+    {
+      "titulo": "Friends",
+      "genero": "Comédia",
+      "ano": 1994,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 10,
+      "atores": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow"
+      ],
+      "detalhes": {
+        "episodios": 236,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bc/Friends_logo.png"
+      }
+    },
+    {
+      "titulo": "The Mandalorian",
+      "genero": "Ficção Científica",
+      "ano": 2019,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Pedro Pascal",
+        "Carl Weathers",
+        "Giancarlo Esposito"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/twentythree/The_Mandalorian_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Chernobyl",
+      "genero": "Drama",
+      "ano": 2019,
+      "nota": 9.4,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Emily Watson"
+      ],
+      "detalhes": {
+        "episodios": 5,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/Chernobyl_-_TV_Miniseries_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Dark",
+      "genero": "Ficção Científica",
+      "ano": 2017,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Louis Hofmann",
+        "Oliver Masucci",
+        "Karoline Eichhorn"
+      ],
+      "detalhes": {
+        "episodios": 26,
+        "idioma": "Alemão",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Dark_season_1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Succession",
+      "genero": "Drama",
+      "ano": 2018,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Brian Cox",
+        "Jeremy Strong",
+        "Sarah Snook"
+      ],
+      "detalhes": {
+        "episodios": 39,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Succession_TV_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Crown",
+      "genero": "Drama",
+      "ano": 2016,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton"
+      ],
+      "detalhes": {
+        "episodios": 60,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b8/The_Crown_Season_1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Sherlock",
+      "genero": "Mistério",
+      "ano": 2010,
+      "nota": 9.1,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Mark Gatiss"
+      ],
+      "detalhes": {
+        "episodios": 13,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/04/Sherlock_titlecard.jpg"
+      }
+    },
+    {
+      "titulo": "The Boys",
+      "genero": "Ação",
+      "ano": 2019,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Karl Urban",
+        "Jack Quaid",
+        "Antony Starr"
+      ],
+      "detalhes": {
+        "episodios": 32,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8e/The_Boys_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Peaky Blinders",
+      "genero": "Crime",
+      "ano": 2013,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Cillian Murphy",
+        "Paul Anderson",
+        "Helen McCrory"
+      ],
+      "detalhes": {
+        "episodios": 36,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0c/Peaky_blinders_titlecard.jpg"
+      }
+    },
+    {
+      "titulo": "Squid Game",
+      "genero": "Thriller",
+      "ano": 2021,
+      "nota": 8.0,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Lee Jung-jae",
+        "Park Hae-soo",
+        "Wi Ha-jun"
+      ],
+      "detalhes": {
+        "episodios": 18,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Squid_Game_S1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Ozark",
+      "genero": "Crime",
+      "ano": 2017,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Jason Bateman",
+        "Laura Linney",
+        "Sofia Hublitz"
+      ],
+      "detalhes": {
+        "episodios": 44,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f5/Ozark_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Mindhunter",
+      "genero": "Crime",
+      "ano": 2017,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Jonathan Groff",
+        "Holt McCallany",
+        "Anna Torv"
+      ],
+      "detalhes": {
+        "episodios": 19,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Mindhunter_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Witcher",
+      "genero": "Fantasia",
+      "ano": 2019,
+      "nota": 8.2,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Henry Cavill",
+        "Anya Chalotra",
+        "Freya Allan"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c0/The_Witcher_S1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Money Heist: Korea",
+      "genero": "Ação",
+      "ano": 2022,
+      "nota": 7.6,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Yoo Ji-tae",
+        "Kim Yunjin",
+        "Park Hae-soo"
+      ],
+      "detalhes": {
+        "episodios": 12,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/52/Money_Heist_Korea_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Arcane",
+      "genero": "Animação",
+      "ano": 2021,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Hailee Steinfeld",
+        "Ella Purnell",
+        "Katie Leung"
+      ],
+      "detalhes": {
+        "episodios": 18,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/36/Arcane_League_of_Legends_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Sopranos",
+      "genero": "Crime",
+      "ano": 1999,
+      "nota": 9.2,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "James Gandolfini",
+        "Lorraine Bracco",
+        "Edie Falco"
+      ],
+      "detalhes": {
+        "episodios": 86,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/ef/Sopranos_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "The Wire",
+      "genero": "Crime",
+      "ano": 2002,
+      "nota": 9.3,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Dominic West",
+        "Idris Elba",
+        "Lance Reddick"
+      ],
+      "detalhes": {
+        "episodios": 60,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/eb/The_Wire.jpg"
+      }
+    },
+    {
+      "titulo": "House of Cards",
+      "genero": "Drama",
+      "ano": 2013,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Kevin Spacey",
+        "Robin Wright",
+        "Michael Kelly"
+      ],
+      "detalhes": {
+        "episodios": 73,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f6/House_of_Cards_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Westworld",
+      "genero": "Ficção Científica",
+      "ano": 2016,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Evan Rachel Wood",
+        "Thandiwe Newton",
+        "Jeffrey Wright"
+      ],
+      "detalhes": {
+        "episodios": 36,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Westworld_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Better Call Saul",
+      "genero": "Drama",
+      "ano": 2015,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Bob Odenkirk",
+        "Jonathan Banks",
+        "Rhea Seehorn"
+      ],
+      "detalhes": {
+        "episodios": 63,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Better_Call_Saul_S1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Narcos",
+      "genero": "Crime",
+      "ano": 2015,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Wagner Moura",
+        "Pedro Pascal",
+        "Boyd Holbrook"
+      ],
+      "detalhes": {
+        "episodios": 30,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Narcos_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Black Mirror",
+      "genero": "Ficção Científica",
+      "ano": 2011,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Bryce Dallas Howard",
+        "Daniel Kaluuya",
+        "Jon Hamm"
+      ],
+      "detalhes": {
+        "episodios": 27,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c5/Black_Mirror_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Severance",
+      "genero": "Ficção Científica",
+      "ano": 2022,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Adam Scott",
+        "Zach Cherry",
+        "Britt Lower"
+      ],
+      "detalhes": {
+        "episodios": 19,
+        "idioma": "Inglês",
+        "plataforma": "Apple TV+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/23/Severance_Apple_TV_Plus_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Bear",
+      "genero": "Drama",
+      "ano": 2022,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Ayo Edebiri"
+      ],
+      "detalhes": {
+        "episodios": 28,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a4/The_Bear_TV_series_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Euphoria",
+      "genero": "Drama",
+      "ano": 2019,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Zendaya",
+        "Hunter Schafer",
+        "Jacob Elordi"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e7/Euphoria_TV_series_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Loki",
+      "genero": "Ficção Científica",
+      "ano": 2021,
+      "nota": 8.2,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Tom Hiddleston",
+        "Sophia Di Martino",
+        "Owen Wilson"
+      ],
+      "detalhes": {
+        "episodios": 12,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/ac/Loki_TV_series_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Andor",
+      "genero": "Ficção Científica",
+      "ano": 2022,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Diego Luna",
+        "Stellan Skarsgård",
+        "Adria Arjona"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Andor_TV_series_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Invincible",
+      "genero": "Animação",
+      "ano": 2021,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Steven Yeun",
+        "J.K. Simmons",
+        "Sandra Oh"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2c/Invincible_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Attack on Titan",
+      "genero": "Animação",
+      "ano": 2013,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Yuki Kaji",
+        "Marina Inoue",
+        "Yui Ishikawa"
+      ],
+      "detalhes": {
+        "episodios": 87,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a1/Attack_on_titan_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Death Note",
+      "genero": "Animação",
+      "ano": 2006,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Mamoru Miyano",
+        "Brad Swaile",
+        "Vincent Tong"
+      ],
+      "detalhes": {
+        "episodios": 37,
+        "idioma": "Japonês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Death_Note_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Fullmetal Alchemist: Brotherhood",
+      "genero": "Animação",
+      "ano": 2009,
+      "nota": 9.1,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Vic Mignogna",
+        "Maxey Whitehead",
+        "Travis Willingham"
+      ],
+      "detalhes": {
+        "episodios": 64,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Fullmetal_Alchemist_Brotherhood_poster.jpg"
+      }
+    },
+    {
+      "titulo": "One Piece",
+      "genero": "Animação",
+      "ano": 1999,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 21,
+      "atores": [
+        "Mayumi Tanaka",
+        "Akemi Okamura",
+        "Kazuya Nakai"
+      ],
+      "detalhes": {
+        "episodios": 1122,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1e/One_Piece_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Demon Slayer",
+      "genero": "Animação",
+      "ano": 2019,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Natsuki Hanae",
+        "Akari Kito",
+        "Yoshitsugu Matsuoka"
+      ],
+      "detalhes": {
+        "episodios": 55,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f4/Kimetsu_no_Yaiba_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Jujutsu Kaisen",
+      "genero": "Animação",
+      "ano": 2020,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Junya Enoki",
+        "Yuma Uchida",
+        "Asami Seto"
+      ],
+      "detalhes": {
+        "episodios": 47,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/twentytwo/Jujutsu_Kaisen_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Vinland Saga",
+      "genero": "Animação",
+      "ano": 2019,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Yuto Uemura",
+        "Naoya Uchida",
+        "Hiroki Yasumoto"
+      ],
+      "detalhes": {
+        "episodios": 48,
+        "idioma": "Japonês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e9/Vinland_Saga_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Cyberpunk: Edgerunners",
+      "genero": "Animação",
+      "ano": 2022,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Zach Aguilar",
+        "Emi Lo",
+        "Gianni Matragrano"
+      ],
+      "detalhes": {
+        "episodios": 10,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Cyberpunk_Edgerunners_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Castlevania",
+      "genero": "Animação",
+      "ano": 2017,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Richard Armitage",
+        "James Callis",
+        "Alejandra Reynoso"
+      ],
+      "detalhes": {
+        "episodios": 32,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Castlevania_Netflix_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Naruto Shippuden",
+      "genero": "Animação",
+      "ano": 2007,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 21,
+      "atores": [
+        "Junko Takeuchi",
+        "Chie Nakamura",
+        "Showtaro Morikubo"
+      ],
+      "detalhes": {
+        "episodios": 500,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1d/Naruto_Shippuden_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Spy x Family",
+      "genero": "Animação",
+      "ano": 2022,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Takuya Eguchi",
+        "Saori Hayami",
+        "Atsumi Tanezaki"
+      ],
+      "detalhes": {
+        "episodios": 37,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/18/Spy_x_Family_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Mob Psycho 100",
+      "genero": "Animação",
+      "ano": 2016,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Setsuo Ito",
+        "Takahiro Sakurai",
+        "Akio Ohtsuka"
+      ],
+      "detalhes": {
+        "episodios": 37,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Mob_Psycho_100_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Frieren: Beyond Journey's End",
+      "genero": "Animação",
+      "ano": 2023,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Atsumi Tanezaki",
+        "Konomi Kohara",
+        "Chiaki Kobayashi"
+      ],
+      "detalhes": {
+        "episodios": 28,
+        "idioma": "Japonês",
+        "plataforma": "Crunchyroll",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/44/Frieren_anime_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Simpsons",
+      "genero": "Animação",
+      "ano": 1989,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 35,
+      "atores": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright"
+      ],
+      "detalhes": {
+        "episodios": 767,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/aa/The_Simpsons_title_screen.png"
+      }
+    },
+    {
+      "titulo": "South Park",
+      "genero": "Animação",
+      "ano": 1997,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 26,
+      "atores": [
+        "Trey Parker",
+        "Matt Stone",
+        "April Stewart"
+      ],
+      "detalhes": {
+        "episodios": 330,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/twentyfour/South_Park_title_card.png"
+      }
+    },
+    {
+      "titulo": "Rick and Morty",
+      "genero": "Animação",
+      "ano": 2013,
+      "nota": 9.1,
+      "disponivel": true,
+      "temporadas": 7,
+      "atores": [
+        "Justin Roiland",
+        "Chris Parnell",
+        "Spencer Grammer"
+      ],
+      "detalhes": {
+        "episodios": 71,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Rick_and_Morty_title_card.png"
+      }
+    },
+    {
+      "titulo": "BoJack Horseman",
+      "genero": "Animação",
+      "ano": 2014,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Will Arnett",
+        "Amy Sedaris",
+        "Alison Brie"
+      ],
+      "detalhes": {
+        "episodios": 77,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b4/BoJack_Horseman_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Avatar: A Lenda de Aang",
+      "genero": "Animação",
+      "ano": 2005,
+      "nota": 9.3,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Zach Tyler",
+        "Mae Whitman",
+        "Jack De Sena"
+      ],
+      "detalhes": {
+        "episodios": 61,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1b/Avatar_-_The_Last_Airbender_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Gravity Falls",
+      "genero": "Animação",
+      "ano": 2012,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Jason Ritter",
+        "Kristen Schaal",
+        "Alex Hirsch"
+      ],
+      "detalhes": {
+        "episodios": 40,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e0/Gravity_Falls_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "House M.D.",
+      "genero": "Drama",
+      "ano": 2004,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 8,
+      "atores": [
+        "Hugh Laurie",
+        "Lisa Edelstein",
+        "Omar Epps"
+      ],
+      "detalhes": {
+        "episodios": 177,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/73/House_M.D._Title_Card.jpg"
+      }
+    },
+    {
+      "titulo": "Grey's Anatomy",
+      "genero": "Drama",
+      "ano": 2005,
+      "nota": 7.6,
+      "disponivel": true,
+      "temporadas": 20,
+      "atores": [
+        "Ellen Pompeo",
+        "Patrick Dempsey",
+        "Sandra Oh"
+      ],
+      "detalhes": {
+        "episodios": 430,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/09/Grey%27s_anatomy.jpg"
+      }
+    },
+    {
+      "titulo": "Lost",
+      "genero": "Ficção Científica",
+      "ano": 2004,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Matthew Fox",
+        "Evangeline Lilly",
+        "Terry O'Quinn"
+      ],
+      "detalhes": {
+        "episodios": 121,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Lost_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "24 Horas",
+      "genero": "Ação",
+      "ano": 2001,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 9,
+      "atores": [
+        "Kiefer Sutherland",
+        "Mary Lynn Rajskub",
+        "Carlos Bernard"
+      ],
+      "detalhes": {
+        "episodios": 204,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8a/24_TV_series_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Prison Break",
+      "genero": "Ação",
+      "ano": 2005,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Wentworth Miller",
+        "Dominic Purcell",
+        "Amaury Nolasco"
+      ],
+      "detalhes": {
+        "episodios": 90,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/01/Prison_Break_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Dexter",
+      "genero": "Crime",
+      "ano": 2006,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 8,
+      "atores": [
+        "Michael C. Hall",
+        "Jennifer Carpenter",
+        "Desmond Harrington"
+      ],
+      "detalhes": {
+        "episodios": 96,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Dexter_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "True Detective",
+      "genero": "Crime",
+      "ano": 2014,
+      "nota": 9.0,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Matthew McConaughey",
+        "Woody Harrelson",
+        "Mahershala Ali"
+      ],
+      "detalhes": {
+        "episodios": 30,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b3/True_Detective_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Mr. Robot",
+      "genero": "Drama",
+      "ano": 2015,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Rami Malek",
+        "Christian Slater",
+        "Portia Doubleday"
+      ],
+      "detalhes": {
+        "episodios": 45,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/thirty/Mr_Robot_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Suits",
+      "genero": "Drama",
+      "ano": 2011,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 9,
+      "atores": [
+        "Gabriel Macht",
+        "Patrick J. Adams",
+        "Meghan Markle"
+      ],
+      "detalhes": {
+        "episodios": 134,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9d/Suits_Season_1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "How I Met Your Mother",
+      "genero": "Comédia",
+      "ano": 2005,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 9,
+      "atores": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Cobie Smulders"
+      ],
+      "detalhes": {
+        "episodios": 208,
+        "idioma": "Inglês",
+        "plataforma": "Disney+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/13/How_I_Met_Your_Mother_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "The Big Bang Theory",
+      "genero": "Comédia",
+      "ano": 2007,
+      "nota": 8.1,
+      "disponivel": true,
+      "temporadas": 12,
+      "atores": [
+        "Jim Parsons",
+        "Johnny Galecki",
+        "Kaley Cuoco"
+      ],
+      "detalhes": {
+        "episodios": 279,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f4/Big_Bang_Theory_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Seinfeld",
+      "genero": "Comédia",
+      "ano": 1989,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 9,
+      "atores": [
+        "Jerry Seinfeld",
+        "Julia Louis-Dreyfus",
+        "Michael Richards"
+      ],
+      "detalhes": {
+        "episodios": 180,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/ab/Seinfeld_title_card.png"
+      }
+    },
+    {
+      "titulo": "Twin Peaks",
+      "genero": "Mistério",
+      "ano": 1990,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Kyle MacLachlan",
+        "Michael Ontkean",
+        "Mädchen Amick"
+      ],
+      "detalhes": {
+        "episodios": 48,
+        "idioma": "Inglês",
+        "plataforma": "Paramount+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e0/Twin_Peaks_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Fargo",
+      "genero": "Crime",
+      "ano": 2014,
+      "nota": 8.9,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Billy Bob Thornton",
+        "Martin Freeman",
+        "Ewan McGregor"
+      ],
+      "detalhes": {
+        "episodios": 51,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5b/Fargo_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "The Americans",
+      "genero": "Drama",
+      "ano": 2013,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Keri Russell",
+        "Matthew Rhys",
+        "Noah Emmerich"
+      ],
+      "detalhes": {
+        "episodios": 75,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e5/The_Americans_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "Halt and Catch Fire",
+      "genero": "Drama",
+      "ano": 2014,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Lee Pace",
+        "Scoot McNairy",
+        "Mackenzie Davis"
+      ],
+      "detalhes": {
+        "episodios": 40,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/bc/Halt_and_Catch_Fire_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Band of Brothers",
+      "genero": "Guerra",
+      "ano": 2001,
+      "nota": 9.4,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Damian Lewis",
+        "Ron Livingston",
+        "Scott Grimes"
+      ],
+      "detalhes": {
+        "episodios": 10,
+        "idioma": "Inglês",
+        "plataforma": "HBO Max",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/66/Band_of_Brothers_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "The Haunting of Hill House",
+      "genero": "Terror",
+      "ano": 2018,
+      "nota": 8.6,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Michiel Huisman",
+        "Carla Gugino",
+        "Henry Thomas"
+      ],
+      "detalhes": {
+        "episodios": 10,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/80/The_Haunting_of_Hill_House_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Fleabag",
+      "genero": "Comédia",
+      "ano": 2016,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Phoebe Waller-Bridge",
+        "Sian Clifford",
+        "Brett Gelman"
+      ],
+      "detalhes": {
+        "episodios": 12,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/54/Fleabag_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Handmaid's Tale",
+      "genero": "Drama",
+      "ano": 2017,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Elisabeth Moss",
+        "Joseph Fiennes",
+        "Yvonne Strahovski"
+      ],
+      "detalhes": {
+        "episodios": 60,
+        "idioma": "Inglês",
+        "plataforma": "Paramount+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a5/The_Handmaid%27s_Tale_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Yellowstone",
+      "genero": "Drama",
+      "ano": 2018,
+      "nota": 8.7,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Kevin Costner",
+        "Luke Grimes",
+        "Kelly Reilly"
+      ],
+      "detalhes": {
+        "episodios": 57,
+        "idioma": "Inglês",
+        "plataforma": "Paramount+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/96/Yellowstone_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Cobra Kai",
+      "genero": "Ação",
+      "ano": 2018,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "William Zabka",
+        "Ralph Macchio",
+        "Xolo Maridueña"
+      ],
+      "detalhes": {
+        "episodios": 60,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/19/Cobra_Kai_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Emily in Paris",
+      "genero": "Comédia",
+      "ano": 2020,
+      "nota": 7.0,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Lily Collins",
+        "Philippine Leroy-Beaulieu",
+        "Lucas Bravo"
+      ],
+      "detalhes": {
+        "episodios": 40,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/7b/Emily_in_Paris_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Wednesday",
+      "genero": "Fantasia",
+      "ano": 2022,
+      "nota": 8.1,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Jenna Ortega",
+        "Gwendoline Christie",
+        "Riki Lindhome"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e4/Wednesday_Netflix_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Bridgerton",
+      "genero": "Romance",
+      "ano": 2020,
+      "nota": 7.3,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Phoebe Dynevor",
+        "Regé-Jean Page",
+        "Nicola Coughlan"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/04/Bridgerton_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Umbrella Academy",
+      "genero": "Ficção Científica",
+      "ano": 2019,
+      "nota": 8.0,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Elliot Page",
+        "Tom Hopper",
+        "David Castañeda"
+      ],
+      "detalhes": {
+        "episodios": 30,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/04/The_Umbrella_Academy_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Sex Education",
+      "genero": "Comédia",
+      "ano": 2019,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Asa Butterfield",
+        "Gillian Anderson",
+        "Emma Mackey"
+      ],
+      "detalhes": {
+        "episodios": 32,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6e/Sex_Education_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Vikings",
+      "genero": "Histórico",
+      "ano": 2013,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Travis Fimmel",
+        "Katheryn Winnick",
+        "Clive Standen"
+      ],
+      "detalhes": {
+        "episodios": 89,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/51/Vikings_title_card.jpg"
+      }
+    },
+    {
+      "titulo": "The Expanse",
+      "genero": "Ficção Científica",
+      "ano": 2015,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 6,
+      "atores": [
+        "Steven Strait",
+        "Dominique Tipper",
+        "Cas Anvar"
+      ],
+      "detalhes": {
+        "episodios": 62,
+        "idioma": "Inglês",
+        "plataforma": "Amazon Prime",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/55/The_Expanse_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Altered Carbon",
+      "genero": "Ficção Científica",
+      "ano": 2018,
+      "nota": 8.0,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Joel Kinnaman",
+        "Anthony Mackie",
+        "Martha Higareda"
+      ],
+      "detalhes": {
+        "episodios": 18,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6c/Altered_Carbon_poster.jpg"
+      }
+    },
+    {
+      "titulo": "For All Mankind",
+      "genero": "Ficção Científica",
+      "ano": 2019,
+      "nota": 8.1,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Joel Kinnaman",
+        "Michael Dorman",
+        "Sarah Jones"
+      ],
+      "detalhes": {
+        "episodios": 40,
+        "idioma": "Inglês",
+        "plataforma": "Apple TV+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f6/For_All_Mankind_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Slow Horses",
+      "genero": "Thriller",
+      "ano": 2022,
+      "nota": 8.0,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Gary Oldman",
+        "Kristin Scott Thomas",
+        "Jack Lowden"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Inglês",
+        "plataforma": "Apple TV+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a4/Slow_Horses_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Ted Lasso",
+      "genero": "Comédia",
+      "ano": 2020,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Brett Goldstein"
+      ],
+      "detalhes": {
+        "episodios": 34,
+        "idioma": "Inglês",
+        "plataforma": "Apple TV+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/twentyone/Ted_Lasso_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Pachinko",
+      "genero": "Drama",
+      "ano": 2022,
+      "nota": 8.4,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Lee Minho",
+        "Kim Min-ha",
+        "Youn Yuh-jung"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Coreano",
+        "plataforma": "Apple TV+",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/43/Pachinko_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Round 6",
+      "genero": "Thriller",
+      "ano": 2021,
+      "nota": 8.0,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Lee Jung-jae",
+        "Park Hae-soo",
+        "Jung Ho-yeon"
+      ],
+      "detalhes": {
+        "episodios": 18,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Squid_Game_S1_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Kingdom",
+      "genero": "Terror",
+      "ano": 2019,
+      "nota": 8.3,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Ju Ji-hoon",
+        "Bae Doona",
+        "Ryu Seung-ryong"
+      ],
+      "detalhes": {
+        "episodios": 12,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/04/Kingdom_Netflix_poster.jpg"
+      }
+    },
+    {
+      "titulo": "My Mister",
+      "genero": "Drama",
+      "ano": 2018,
+      "nota": 9.1,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Lee Sun-kyun",
+        "IU",
+        "Oh Dal-su"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a0/My_Mister_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Signal",
+      "genero": "Crime",
+      "ano": 2016,
+      "nota": 8.8,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Lee Je-hoon",
+        "Kim Hye-soo",
+        "Jo Jin-woong"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/26/Signal_Korean_drama_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Itaewon Class",
+      "genero": "Drama",
+      "ano": 2020,
+      "nota": 8.1,
+      "disponivel": true,
+      "temporadas": 1,
+      "atores": [
+        "Park Seo-joon",
+        "Kim Da-mi",
+        "Yoo Jae-myung"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Coreano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/60/Itaewon_Class_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Os Outros",
+      "genero": "Thriller",
+      "ano": 2021,
+      "nota": 7.9,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Rafael Lozano",
+        "José Sospedra",
+        "Candela Cruz"
+      ],
+      "detalhes": {
+        "episodios": 12,
+        "idioma": "Espanhol",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Los_Otros_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Élite",
+      "genero": "Thriller",
+      "ano": 2018,
+      "nota": 7.4,
+      "disponivel": true,
+      "temporadas": 7,
+      "atores": [
+        "Itzan Escamilla",
+        "Miguel Herrán",
+        "María Pedraza"
+      ],
+      "detalhes": {
+        "episodios": 56,
+        "idioma": "Espanhol",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a3/Elite_Netflix_poster.jpg"
+      }
+    },
+    {
+      "titulo": "3%",
+      "genero": "Ficção Científica",
+      "ano": 2016,
+      "nota": 7.3,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "João Miguel",
+        "Bianca Comparato",
+        "Rodolfo Valente"
+      ],
+      "detalhes": {
+        "episodios": 32,
+        "idioma": "Português",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c4/3_Percent_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Sintonia",
+      "genero": "Drama",
+      "ano": 2019,
+      "nota": 7.5,
+      "disponivel": true,
+      "temporadas": 5,
+      "atores": [
+        "Jottapê",
+        "Bruna Mascarenhas",
+        "Christian Malheiros"
+      ],
+      "detalhes": {
+        "episodios": 30,
+        "idioma": "Português",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3a/Sintonia_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Lupin",
+      "genero": "Crime",
+      "ano": 2021,
+      "nota": 7.5,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Omar Sy",
+        "Ludivine Sagnier",
+        "Clotilde Hesme"
+      ],
+      "detalhes": {
+        "episodios": 17,
+        "idioma": "Francês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1b/Lupin_Netflix_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Suburra: Blood on Rome",
+      "genero": "Crime",
+      "ano": 2017,
+      "nota": 7.8,
+      "disponivel": true,
+      "temporadas": 3,
+      "atores": [
+        "Eduardo Valdarnini",
+        "Giacomo Ferrara",
+        "Alessandro Borghi"
+      ],
+      "detalhes": {
+        "episodios": 24,
+        "idioma": "Italiano",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a9/Suburra_poster.jpg"
+      }
+    },
+    {
+      "titulo": "Borgen",
+      "genero": "Drama",
+      "ano": 2010,
+      "nota": 8.5,
+      "disponivel": true,
+      "temporadas": 4,
+      "atores": [
+        "Sidse Babett Knudsen",
+        "Birgitte Hjort Sørensen",
+        "Pilou Asbæk"
+      ],
+      "detalhes": {
+        "episodios": 40,
+        "idioma": "Dinamarquês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Borgen_poster.jpg"
+      }
+    },
+    {
+      "titulo": "The Recruit",
+      "genero": "Ação",
+      "ano": 2022,
+      "nota": 7.2,
+      "disponivel": true,
+      "temporadas": 2,
+      "atores": [
+        "Noah Centineo",
+        "Laura Haddock",
+        "Aarti Mann"
+      ],
+      "detalhes": {
+        "episodios": 16,
+        "idioma": "Inglês",
+        "plataforma": "Netflix",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/The_Recruit_Netflix_poster.jpg"
+      }
+    }
+  ]
